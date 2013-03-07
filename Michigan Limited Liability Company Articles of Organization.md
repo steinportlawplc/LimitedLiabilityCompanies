@@ -29,14 +29,15 @@ The duration of the limited liability company is [perpetual, or a specific time 
 3. The name of the registered agent at the registered office is [Enter the name of the individual who is designated to be the registered agent.].
  
 ### Article V
-[Enter any other provisions that you would like to be in the articles of organization]
+[Enter any other provisions that you would like to be included in the articles of organization]
+
 
 Signed this ______ day of ______, _______. 
 
 
-------------------------------------------
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
 (Signature)
 
 
-------------------------------------------
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_<br>
 (Printed name and title)
