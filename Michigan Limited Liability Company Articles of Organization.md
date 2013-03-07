@@ -34,10 +34,9 @@ The duration of the limited liability company is [perpetual, or a specific time 
 Signed this ______ day of ______, _______. 
 
 
-
-__________________________________________
+------------------------------------------
 (Signature)
 
 
-__________________________________________
+------------------------------------------
 (Printed name and title)
