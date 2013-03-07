@@ -11,7 +11,7 @@ do not constitute legal advice. If you need legal advice, please contact an atto
 For the full copyright and license terms of this document, please visit this repository's [readme file](https://github.com/steinportlawplc/LimitedLiabilityCompanies/blob/master/README.md).
 
 ---
-## Articles of Organization for [NAME of COMPANY] [L.L.C. or L.C. or LLC or LC]
+### Articles of Organization for [NAME of COMPANY] [L.L.C. or L.C. or LLC or LC]
 
 ### Article I
 The name of the Limited Liability Company shall be [NAME of COMPANY] [L.L.C. or L.C. or LLC or LC].
